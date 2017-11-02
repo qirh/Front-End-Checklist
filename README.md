@@ -1,4 +1,4 @@
-# Front-End Checklist
+# Front-End Checklist-AR قائمة مراجعة للواجهات الأمامية
 
 [![Join the chat at https://gitter.im/Front-End-Checklist/Lobby](https://badges.gitter.im/Front-End-Checklist/Lobby.svg)](https://gitter.im/Front-End-Checklist/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
@@ -6,25 +6,27 @@
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/thedaviddias/front-end-checklist)
 [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-The **Front-End Checklist** is an exhaustive list of all elements you need to have / to test before launching your site / HTML page to production.
+***ملاحظة: ترجمة هذه الصفحة عمل تحت الإنشاء، شاكر ومقدر لأي اقتراح أو مساعدة في الترجمة. وأيضاً، عندي مشكلة في عرض النصوص المحتوية على اللغتين العربية والإنجليزية بشكل صحيح مثل ما هو موضح في السطر أدناه، اللي يعرف حل يعلمني :) ***
 
-It is based on Front-End developers' years of experience, with the additions coming from some other open-source checklists.
+**قائمة المراجعة للواجهات الأمامية** هي قائمة شاملة لكل الموارد التي يحتاجها المطور لبناء وإجراء اختبارات على الصفحات المكتوبة بلغة ترميز النص الفائق أو كما هو متعارف عليها بال (HTML)
 
-*Help to share the Front-End Checklist by voting and recommending on Product Hunt*
+هذه القائمة بُنيت من نتاج خبرة سنين من قبل عدة مطورين، بالإضافة إلى بعض المواد التي نُسخت من قوائم مفتوحة المصدر.
+
+*ساعد في نشر هذه القائمة عن طريق الضغط على زر أعجبني في موقع برودكت هنت أدناه*
 [![](http://res.cloudinary.com/djnyaloac/image/upload/v1508896898/upvote-producthunt_vzys4c.jpg)](https://www.producthunt.com/posts/front-end-checklist)
 
 ## Table of Contents
 
-1. **[Head](#head)**
-2. **[HTML](#html)**
-3. **[Webfonts](#webfonts)**
+1. **[Head المقدمة](#head)**
+2. **[HTML لغة ترميز النص الفائق](#html)**
+3. **[Webfonts الخطوط](#webfonts)**
 4. **[CSS](#css)**
-5. **[Images](#images)**
-6. **[JavaScript](#javascript)**
-7. **[Security](#security)**
-8. **[Performance](#performance-1)**
-9. **[Accessibility](#accessibility)**
-10. **[SEO](#seo)**
+5. **[Images الصور](#images)**
+6. **[JavaScript جاڤاسكربت](#javascript)**
+7. **[Security الحماية](#security)**
+8. **[Performance الأداء](#performance-1)**
+9. **[Accessibility الإتاحية](#accessibility)**
+10. **[SEO تحسين محركات البحث](#seo)**
 
 ## How to use?
 
