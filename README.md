@@ -6,6 +6,8 @@
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/thedaviddias/front-end-checklist)
 [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+Note: this project was forked from this [commit](https://github.com/qirh/Front-End-Checklist-AR/commit/eab96c834fc68dd93679290a3026236905bd7c29) and is still under construction, please feel free to help
+
 ***ملاحظة: ترجمة هذه الصفحة عمل تحت الإنشاء، شاكر ومقدر لأي اقتراح أو مساعدة في الترجمة. وأيضاً، عندي مشكلة في عرض النصوص المحتوية على اللغتين العربية والإنجليزية بشكل صحيح مثل ما هو موضح في السطر أدناه، اللي يعرف حل يعلمني :) ***
 
 **قائمة المراجعة للواجهات الأمامية** هي قائمة شاملة لكل الموارد التي يحتاجها المطور لبناء وإجراء اختبارات على الصفحات المكتوبة بلغة ترميز النص الفائق أو كما هو متعارف عليها بال (HTML)
